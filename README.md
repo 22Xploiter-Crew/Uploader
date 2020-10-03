@@ -1,5 +1,5 @@
 # Ghost Uploader
-Uploader whose extension can be changed via url to .txt or .php
+Uploader whose extension can be changed via url to .txt or .php And it can't be indexed by Google or found by anyone, because the status code is 404
 ### Txt Extension
 ![Txt](image/IMG_20201004_012058.jpg)
 ### Php Extension
