@@ -7,3 +7,5 @@ Uploader whose extension can be changed via url to .txt or .php And it can't be 
 
 If you want to change the file extension, you don't need to rename this uploader. all you have to do is change the extension via utl, for example:
 https://randsx.com/uploader.php to https://randsx.com/uploader.txt
+
+NOTE : The requirement for changing the extension is that the .htaccess file on the server can be read / written.
